@@ -1,3 +1,3 @@
 # ALTERPAPA
 
-Proyecto para implementar modelos de clasificacion, segmentacion y deteccion aplicado al tizón temprano en la papa
+Proyecto para implementar modelos de clasificacion, segmentacion y deteccion aplicado al tizón temprano en la papa, en una aplicacion movil
